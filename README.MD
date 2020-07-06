@@ -1,5 +1,10 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/BielStela/Curs_UB/master)
 
+
++ Intro: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_intro_python.ipynb)
++ Collections and sequences: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_colections_sequences.ipynb)
++ Classes: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_OOP_classes.ipynb)
+
 # Resources and bibliography:
 
 ### Data science with python
