@@ -1,9 +1,12 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/BielStela/Curs_UB/master)
 
-
+## Notebooks
 + Intro: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_intro_python.ipynb)
 + Collections and sequences: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_colections_sequences.ipynb)
 + Classes: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_OOP_classes.ipynb)
+## Exercises
++ Intro exercises [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_ex_vars_funcs.ipynb)
++ Collections exercises [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_ex_lists.ipynb)
 
 # Resources and bibliography:
 
