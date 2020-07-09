@@ -8,7 +8,7 @@
 ## Dia 2
 + Numpy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_2/dia_2_numpy.ipynb)
 + Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_2/dia_2_pandas.ipynb)
-+ Pandas snippeds [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_2/dia_2_pandas_snippets.ipynb)
++ Pandas snippets [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_2/dia_2_pandas_snippets.ipynb)
 + Classes (OOP) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_OOP_classes.ipynb)
 
 ## Exercises
