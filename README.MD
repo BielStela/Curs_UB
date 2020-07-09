@@ -2,17 +2,19 @@
 
 # Notebooks
 ## Dia 1
-+ Intro: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_intro_python.ipynb)
-+ Collections and sequences: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_colections_sequences.ipynb)
++ Intro [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_intro_python.ipynb)
++ Collections and sequences [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_colections_sequences.ipynb)
 
 ## Dia 2
-+ Numpy: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_2/dia_2_numpy.ipynb)
-+ Pandas: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_2/dia_2_pandas.ipynb)
-+ Classes (OOP): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_OOP_classes.ipynb)
++ Numpy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_2/dia_2_numpy.ipynb)
++ Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_2/dia_2_pandas.ipynb)
++ Pandas snippeds [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_2/dia_2_pandas_snippets.ipynb)
++ Classes (OOP) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_OOP_classes.ipynb)
 
 ## Exercises
 + Intro exercises [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_ex_vars_funcs.ipynb)
 + Collections exercises [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_ex_lists.ipynb)
++ Numpy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_2/dia_2_ex_numpy.ipynb)
 
 # Resources and bibliography:
 
