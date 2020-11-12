@@ -11,6 +11,9 @@
 + Pandas snippets [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_2/dia_2_pandas_snippets.ipynb)
 + Classes (OOP) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_OOP_classes.ipynb)
 
+## Unsupervised Learning
+
+
 ## Exercises
 + Intro exercises [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_ex_vars_funcs.ipynb)
 + Collections exercises [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BielStela/Curs_UB/blob/master/dia_1/dia_1_ex_lists.ipynb)
